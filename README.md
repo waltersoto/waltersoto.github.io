@@ -4,6 +4,6 @@ waltersoto.github.io
 ## Hello world!
  
 
-My Github user page is at: https://github.com/dantnguyen/
+My Github user page is at: https://github.com/waltersoto/
 
-Homepage at: http://dantnguyen.github.io/
+Homepage at: http://waltersoto.github.io/
